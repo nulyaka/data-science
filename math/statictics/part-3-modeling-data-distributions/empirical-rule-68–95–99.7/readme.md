@@ -1,7 +1,13 @@
 ![](normal-distribution.png)
+---
 ![](draw.png)
+---
 ![](example-1.png)
+---
 ![](example-2.png)
 ![](example-3.png)
+---
 ![](example-4.png)
 ![](example-5.png)
+---
+![](example-6.png)
