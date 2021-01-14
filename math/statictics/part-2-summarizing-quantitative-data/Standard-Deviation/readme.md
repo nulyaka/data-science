@@ -9,4 +9,4 @@
 
 ## 4. Examples
 ![](example-1.png)
-1[](example-2.png)
+![](example-2.png)
