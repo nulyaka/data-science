@@ -1,1 +1,1 @@
-## 1.Interquartile Range (IQR)
+## 1. Interquartile Range (IQR)
