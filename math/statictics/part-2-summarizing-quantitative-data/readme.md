@@ -1,3 +1,4 @@
+*Open directories according to order*
 ## Contents:
 ### 1. Interquartile Range (IQR)
 ### 2. Variance
