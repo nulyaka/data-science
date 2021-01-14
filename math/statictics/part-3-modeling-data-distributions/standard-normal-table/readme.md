@@ -1,12 +1,17 @@
-![](proportion-below)
-![](proportion-above-1)
-![](proportion-above-2)
-![](proportion-between-1)
-![](proportion-between-2)
-![](proportion-between-3)
-![](proportion-percentile-1)
-![](proportion-percentile-2)
-![](proportion-percentile-3)
-![](threshold-1)
-![](threshold-2)
-![](threshold-3)
+## Standard Normal Table for proportion below
+![](proportion-below.png)
+## Standard Normal Table for proportion above
+![](proportion-above-1.png)
+![](proportion-above-2.png)
+## Standard Normal Table for proportion between
+![](proportion-between-1.png)
+![](proportion-between-2.png)
+![](proportion-between-3.png)
+## Finding z-score for percentile 
+![](proportion-percentile-1.png)
+![](proportion-percentile-2.png)
+![](proportion-percentile-3.png)
+## Threshold for low percentile
+![](threshold-1.png)
+![](threshold-2.png)
+![](threshold-3.png)
