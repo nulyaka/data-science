@@ -1,3 +1,4 @@
+## Scatterplots
 ![](scatterplot-1.png)
 ![](scatterplot-outliers.png)
 ![](key-idea.png)
