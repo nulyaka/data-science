@@ -1,3 +1,6 @@
+## Redidual plots
+![](res-plot-1.png)
+![](res-plot-1.png)
 ![](r2-intuition.png)
 ![](r2-intuition-1.png)
 ![](r2-intuition-2.png)
