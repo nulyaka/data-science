@@ -5,4 +5,4 @@
 ### 2. Correlation Coefficient
 ### 3. Linear Regression
 ### 4. Residuals
-### 5. R-squared or Coefficient of Determination and RMSD
+### 5. R-squared or Coefficient of Determination, RMSD, Residual Plots
