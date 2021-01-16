@@ -4,3 +4,10 @@
 ![](type-ss-4.png)
 ![](type-ss-5.png)
 ![](type-ss-6.png)
+## Example of experiment
+![](exp.png)
+## Example of observational study
+![](obs.png)
+## Example of wrong sample study
+![](sample.png)
+
