@@ -1,5 +1,7 @@
+## Correlation and Causality
 ![](cc-1.png)
 ![](cc-2.png)
+## Identifying bias in samples and surveys
 ![](survey-1.png)
 ![](survey-2.png)
 ![](survey-3.png)
