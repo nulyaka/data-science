@@ -6,3 +6,5 @@
 ## Coefficient of determination or R-squared
 ![](cd-1.png)
 ![](cd-2.png)
+## Standard deviation of residuals or Root-mean-square error (RMSD)
+![](sdr.png) 
