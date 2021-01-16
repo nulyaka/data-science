@@ -1,1 +1,21 @@
-
+## Introduction to experiment design
+![](intro-exp-design-1.png)
+![](intro-exp-design-2.png)
+## The language of experiments
+![](exp-lang-1.png)
+![](exp-lang-2.png)
+![](exp-lang-3.png)
+![](exp-lang-4.png)
+## Principles of experiment design
+![](exp-principles-1.png)
+![](exp-principles-2.png)
+![](exp-principles-3.png)
+![](exp-principles-4.png)
+![](exp-principles-5.png)
+## Random sampling vs. random assignment (scope of inference)
+![](rs-ra-1.png)
+![](rs-ra-2.png)
+![](rs-ra-3.png)
+![](rs-ra-4.png)
+![](rs-ra-5.png)
+![](rs-ra-6.png)
