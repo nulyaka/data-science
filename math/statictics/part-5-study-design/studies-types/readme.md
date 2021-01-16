@@ -8,6 +8,6 @@
 ![](exp.png)
 ## Example of observational study
 ![](obs.png)
-## Example of wrong sample study
+## Example of wrong sample study (if there were at least 100 duckies sampled)
 ![](sample.png)
 
