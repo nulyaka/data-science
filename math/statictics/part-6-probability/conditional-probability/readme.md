@@ -1,1 +1,15 @@
-
+## Tree diagrams and conditional probability
+![](tree-diagrams-1.png)
+![](tree-diagrams-2.png)
+![](tree-diagrams-3.png)
+![](tree-diagrams-4.png)
+![](tree-diagrams-5.png)
+![](tree-diagrams-6.png)
+## Conditional probability and independence
+![](conditional-probability-1.png)
+![](conditional-probability-2.png)
+![](conditional-probability-3.png)
+![](conditional-probability-4.png)
+![](conditional-probability-5.png)
+![](conditional-probability-6.png)
+![](conditional-probability-7.png)
