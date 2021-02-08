@@ -8,9 +8,6 @@
 ![](combining-rv-4.png)
 ![](combining-rv-5.png)
 ## Combining random variables
-![](combining-rv-4.png)
-![](combining-rv-5.png)
-![](combining-rv-6.png)
 ![](combining-rv-7.png)
 ![](combining-rv-8.png)
 ![](combining-rv-9.png)
