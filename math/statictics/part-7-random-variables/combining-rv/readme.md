@@ -20,3 +20,14 @@
 ![](combining-rv-16.png)
 ![](combining-rv-17.png)
 ![](combining-rv-18.png)
+## Example: Analyzing distribution of sum of two normally distributed random variables
+![](combining-rv-20.png)
+## Example: Analyzing the difference in distributions
+![](combining-rv-21.png)
+## Combining normal random variables
+![](combining-rv-22.png)
+![](combining-rv-23.png)
+![](combining-rv-24.png)
+![](combining-rv-25.png)
+![](combining-rv-26.png)
+![](combining-rv-27.png)
