@@ -14,3 +14,13 @@
 ![](sdss-10.png)
 ## Check pdf file in the directory
 ![](sdss-11.png)
+## Sampling distribution of a sample proportion example
+![](sdss-12.png)
+![](sdss-13.png)
+![](sdss-14.png)
+![](sdss-15.png)
+![](sdss-16.png)
+![](sdss-17.png)
+![](sdss-18.png)
+![](sdss-19.png)
+![](sdss-20.png)
