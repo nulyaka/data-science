@@ -11,7 +11,7 @@
 ![]("pp-conditions-5.png")
 ![]("pp-conditions-6.png")
 ![]("pp-conditions-7.png")
-## z* values
+## z* values
 ![]("pp-z-value-1.png")
 ![]("pp-z-value-2.png")
 ![]("pp-z-value-3.png")
