@@ -1,0 +1,28 @@
+## Idea behind hypothesis testing
+![](intro-1.png)
+## Examples of null and alternative hypotheses
+![](intro-examples-1.png)
+![](intro-examples-2.png)
+![](intro-examples-3.png)
+## P-values and significance tests
+![](intro-pvalue-1.png)
+![](intro-pvalue-2.png)
+![](intro-pvalue-3.png)
+![](intro-pvalue-4.png)
+![](intro-pvalue-5.png)
+## Final review
+![](intro-final-1.png)
+![](intro-final-2.png)
+![](intro-final-3.png)
+![](intro-final-4.png)
+![](intro-final-5.png)
+![](intro-final-6.png)
+![](intro-final-7.png)
+![](intro-final-8.png)
+![](intro-final-9.png)
+![](intro-final-10.png)
+![](intro-final-11.png)
+![](intro-final-12.png)
+![](intro-final-13.png)
+![](intro-final-14.png)
+![](intro-final-15.png)
