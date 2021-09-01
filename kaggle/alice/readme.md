@@ -1,3 +1,1 @@
-data can be downloaded from: [data]: (http://www.reddit.com)
-[link text itself]: http://www.reddit.com
-
+[I'm an inline-style link](https://www.google.com)
