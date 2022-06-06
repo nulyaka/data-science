@@ -1,3 +1,4 @@
+<pre> 
 Symbol             Typical Meaning <br />
 a, b, c, α, β, γ   Scalars are lowercase
 x, y, z            Vectors are bold lowercase
@@ -47,3 +48,4 @@ det(A) Determinant of A
 k·k Norm; Euclidean, unless specified
 λ Eigenvalue or Lagrange multiplier
 Eλ Eigenspace corresponding to eigenvalue λ
+</pre> 
