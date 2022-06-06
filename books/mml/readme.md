@@ -1,4 +1,4 @@
-Symbol             Typical Meaning \n 
+Symbol             Typical Meaning <br />
 a, b, c, α, β, γ   Scalars are lowercase
 x, y, z            Vectors are bold lowercase
 **A**, **B**, **C**            Matrices are bold uppercase
